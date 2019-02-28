@@ -28,7 +28,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-eschborn.de
+    url: http://www.grueneeschborn.de/
 ---
 city: Kriftel
 country: DE
